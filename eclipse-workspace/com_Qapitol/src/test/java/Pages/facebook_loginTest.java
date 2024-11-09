@@ -6,10 +6,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import com_Qapitol_base.initialization;
+import com.qapitol.utilities.baseclass;
+
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class facebook_loginTest extends initialization {
+public class facebook_loginTest extends baseclass {
 	       
 
 	public static void loginpage() {

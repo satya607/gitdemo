@@ -1,0 +1,32 @@
+
+*.repositories
+/.m2
+/.p2
+/AppData
+/Downloads
+/eclipse-workspace
+/eclipse
+/Searches
+/Pictures
+*.regtrans-ms
+/OneDrive
+*.blf
+ntuser.ini
+ntuser.dat.LOG2
+/.cache
+/.eclipse
+/.config
+/.vscode
+/Desktop
+/IdeaProjects
+/Music
+/Contacts
+/Documents
+/Favorites
+IntelGraphicsProfiles/Darken Video
+/Links
+*.DAT
+ntuser.dat.LOG1
+/Videos
+/IntelGraphicsProfiles
+/Saved Games
